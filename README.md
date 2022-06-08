@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/emmanuelkech/interactive-rating-component](https://github.com/emmanuelkech/interactive-rating-component)
-- Live Site URL: [https://emmanuelkech.github.io/interactive-rating-component/](https://emmanuelkech.github.io/interactive-rating-component/)
+- Solution URL: [github](https://github.com/emmanuelkech/interactive-rating-component)
+- Live Site URL: [github pages](https://emmanuelkech.github.io/interactive-rating-component/)
 
 ## My process
 
@@ -47,9 +47,9 @@ Users should be able to:
 
 ## Author
 
-- Website - [emmanuelkech](https://emmanuelkech.github.io/interactive-rating-component/)
+- Website - [https://emmanuelkech.github.io/interactive-rating-component/](https://emmanuelkech.github.io/interactive-rating-component/)
 - Frontend Mentor - [@emmanuelkech](https://www.frontendmentor.io/profile/emmanuelkech)
 - Twitter - [@perfectdynamite](https://www.twitter.com/perfectdynamite)
-- LinkedIn - [](https://www.linkedin.com/in/emmanuel-ikechukwu-018032b4/)
+- LinkedIn - [Emmanuel Ikechukwu](https://www.linkedin.com/in/emmanuel-ikechukwu-018032b4/)
 
 
