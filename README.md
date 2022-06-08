@@ -4,10 +4,16 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ## Table of contents
 
-- [The challenge](#the-challenge)
-- [Built with](#built-with)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
 - [Author](#author)
 
+
+## Overview
 
 ### The challenge
 
@@ -18,16 +24,32 @@ Users should be able to:
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
+### Screenshot
+
+![](./images/screenshot.png)
+
+
+### Links
+
+- Solution URL: [https://github.com/emmanuelkech/interactive-rating-component](https://github.com/emmanuelkech/interactive-rating-component)
+- Live Site URL: [https://emmanuelkech.github.io/interactive-rating-component/](https://emmanuelkech.github.io/interactive-rating-component/)
+
+## My process
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- JavaScript
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [emmanuelkech](https://emmanuelkech.github.io/interactive-rating-component/)
 - Frontend Mentor - [@emmanuelkech](https://www.frontendmentor.io/profile/emmanuelkech)
 - Twitter - [@perfectdynamite](https://www.twitter.com/perfectdynamite)
+- LinkedIn - [](https://www.linkedin.com/in/emmanuel-ikechukwu-018032b4/)
+
 
