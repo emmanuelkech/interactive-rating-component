@@ -2,13 +2,6 @@
     box-sizing: border-box;
 }
 
-@media screen and (max-width:400px){
-    #star {
-        width: 42px;
-        height: 42px;
-    }
-}
-
 html{
     font-size: 62.5%;
 }
@@ -135,4 +128,11 @@ p {
     font-size: 1.5rem;
     color: hsl(25, 97%, 53%);
     border-radius: 50px;
+}
+
+@media screen and (max-width:400px){
+    #star {
+        width: 42px;
+        height: 42px;
+    }
 }
